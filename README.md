@@ -8,6 +8,8 @@ and add a description to each task.
 The ToDo List Manager is built using the Tkinter library for the GUI and
 SQLite3 for storing the tasks.
 
+![img](project.png)
+
 ## Key Features
 The Task App offers a variety of features to help you stay organized and on top
 of your tasks, including:
